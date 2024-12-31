@@ -1,5 +1,5 @@
 import turtle as t
-t.shape("classic")
+t.shape("turtle")
 
 # 터틀 그래픽 창 설정
 window = t.Screen()
@@ -42,3 +42,4 @@ t.circle(7)
 t.end_fill()
 
 t.hideturtle()
+t.done()
