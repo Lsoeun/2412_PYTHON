@@ -12,3 +12,4 @@ Day10 질문사항 - https://chambray-polonium-827.notion.site/Day10-175ac6a383e
 
 파이썬 출력형식 추가자료 - https://chambray-polonium-827.notion.site/161ac6a383ea8067a5d1e871fecc2f77 <br>
 파이썬 함수와 메서드 추가자료 - https://chambray-polonium-827.notion.site/164ac6a383ea8070b512f24d4253a22c <br>
+파이썬1 총정리 문제 - https://chambray-polonium-827.notion.site/1-172ac6a383ea80f0beb5f25829dfd697 <br>
