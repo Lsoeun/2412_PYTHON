@@ -5,8 +5,8 @@
 # Day12_1 패키지의 모듈에서 모든 함수와 변수 가지고 오기
 
 import sys
-sys.path.append(r"C:\Users\SoJung\2412_PYTHON\Day12_1")
-from cal import *
+sys.path.append(r"C:\Users\SoJung\2412_PYTHON")
+from Day12_1.cal import *
 
 fat_calories = calculate_calories(1, 10)
 print(fat_calories)
