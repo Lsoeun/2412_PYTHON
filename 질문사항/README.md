@@ -12,6 +12,8 @@ Day11 질문사항 - https://chambray-polonium-827.notion.site/Day11-17cac6a383e
 Day12 질문사항 - https://chambray-polonium-827.notion.site/Day12-17eac6a383ea80019e1ece523c04d393 <br>
 Day13 질문사항 - https://chambray-polonium-827.notion.site/Day13-17fac6a383ea80a7bd79e39aff7edc49 <br>
 Day15 추가자료 - https://chambray-polonium-827.notion.site/185ac6a383ea80e994b7fe2915e6ed6a <br>
+Day19 질문사항 - https://chambray-polonium-827.notion.site/Day19-198ac6a383ea8040b114fdc260019a27 <br>
+
 
 파이썬 출력형식 추가자료 - https://chambray-polonium-827.notion.site/161ac6a383ea8067a5d1e871fecc2f77 <br>
 파이썬 함수와 메서드 추가자료 - https://chambray-polonium-827.notion.site/164ac6a383ea8070b512f24d4253a22c <br>
